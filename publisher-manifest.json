@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7fa0f86fb2366677046a97ba",
+  "owner": "kjcpyecst",
+  "repo": "page-4b0233d8de67b18c7138db26",
+  "title": "GOOD4G",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4b0233d8de67b18c7138db26",
+      "a": "GOOD4G",
+      "b": "2027官方最新地址导航",
+      "entity": "GOOD4G",
+      "brand": "GOOD4G",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0147bdc77e12f69eb60a85f7335155fe6dd0c0df8ad86b8350a5b36b8b074a38",
+      "content": {
+        "primary_entity": "GOOD4G",
+        "keyword1": "GOOD4G",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "各设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，跟着客户端文档导入订阅，即刻开始使用。",
+          "AI_CLOSING_TITLE": "开始你的GOOD4G体验",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别覆盖每月100GB、300GB与1000GB流量，并支持3台、5台与20台设备同时在线。旗舰版配备IPLC专线游戏加速与全节点原生流媒体解锁，团队版可定制企业路由。用户可根据设备数量与流量需求选择月付或年付，年付方案分别为¥150/年、¥350/年与¥850/年。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度，快速锁定适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合1至2人日常使用，3台设备同时在线，100GB/月覆盖浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持5台设备，300GB/月流量，IPLC专线优化游戏加速，适合多设备家庭。",
+          "AI_FEATURE_TEXT_3": "团队版支持20台设备与1000GB/月流量，可定制企业路由，年付¥850/年更经济。",
+          "AI_FEATURE_TITLE_1": "个人轻量选择",
+          "AI_FEATURE_TITLE_2": "进阶多设备",
+          "AI_FEATURE_TITLE_3": "团队协作需求",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的全过程。",
+          "AI_GUIDE_TITLE": "使用配置指南",
+          "AI_HERO_INTRO": "GOOD4G提供多档海外加速订阅，覆盖个人到团队的不同设备数量与流量需求。选择月付或年付，搭配对应客户端导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐按需匹配",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和每月流量，在基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备限制与节点覆盖，确认是否满足多设备或流媒体需求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅，完成配置后即可在所选设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "选对套餐，连接更顺畅",
+          "AI_FAQ_ANSWER_1": "在客户端界面的订阅设置中粘贴订阅地址，保存后即可获取线路节点。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，可根据常用设备数量选择。",
+          "AI_FAQ_ANSWER_3": "按月付或按年付均可，按年付分别 ¥150/年、¥350/年、¥850/年，适合长期使用。",
+          "AI_FAQ_ANSWER_4": "在客户端内手动执行订阅更新，或重启客户端自动获取最新线路节点。",
+          "AI_FAQ_ANSWER_5": "先确认路由器是否支持客户端插件或旁路由方案，再按对应设备文档导入订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "GOOD4G 的订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅更新后节点没有变化怎么办？",
+          "AI_FAQ_QUESTION_5": "在路由器上如何使用 GOOD4G？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lunazf.cn",
+    "host": "lunazf.cn"
+  },
+  "file_hashes": {
+    "index.html": "c43fadff5596c6b1932661c407ab29f8e4574f107aeadbecf4c2fbdb1a3457b4",
+    "sitemap.xml": "ce1c92206595ab5bc19ead09577c44954582c05be0e9e94d7d8540bb4e52fa47",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "70d2f030602eaf2887c0a295aa3f8e688e3713ac652a3abfbc362ea6049955fb",
+    "robots.txt": "02786c567be225842cb5d636a314e8805346564e9f56e0c7c5168a67701bd53c",
+    "dc6823a7d0f711f30d66b05bf809967e.txt": "fb28eba6e98e9a22d38bb50620b2ff3715024fe74e87f4183400e1e7a7593ac1"
+  },
+  "revision": "5e1fc06263f9159bb07f190db13b40015d213c2a694dc78cb4264888a0a02312"
+}
